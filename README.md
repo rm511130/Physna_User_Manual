@@ -55,9 +55,13 @@ _Note: depending on your Master Services Agreement and the features your company
 1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
 2. The tripple horizontal lines open up or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
 3. The question mark icon opens up a "Match Type" help screen that explains the 4 modalities of searches available to the end user directly from the main landing page.
+    
     (i) Ma.tch: finds models that are geometrically similar to a chosen model
+   
     (ii) Part Match: finds models into which your chosen model fits
+   
     (iii) Scan Match: finds models when the chosen model is a high-poly scan by comparing bounding box volume parameters
+   
     (iv) Classification Match: finds models using their geometric classification or predicted geometric classification
 4. The radio buttons that switch the results between the 4 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
 5. The match tolerance between 0 and 100% that is used to filter the search result set.
@@ -69,8 +73,11 @@ _Note: depending on your Master Services Agreement and the features your company
 10. Download the contents of the page into using an Excel-friendly format.
 11. Pagination control when the result sets can't be shown on a single page.
 12. The three icons, in order from left to right, represent functionality that will be explained in a subsequent section of this user guide.
-     (i) Upload models
-     (ii) General settings
-     (iii) User settings
+  
+    (i) Upload models
+  
+    (ii) General settings
+   
+    (iii) User settings
 13. The ability to toggle the display of results between the tighter table format shown above and the bigger thumbnails format shown below.
 ![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)
