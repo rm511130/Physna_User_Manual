@@ -35,6 +35,7 @@ _Note: depending on your Master Services Agreement, some features may not be ava
 - As a customer, your Sales and Customer Success teams will have given you a URL to access your firewalled, dedicated, and encrypted Physna Environment. The URL will probably follow the structure __https://my-company.physna.com__ where _my_company_ is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
 - Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment. It will probably be your business Email Address or Single-Sign-On ID.
 - Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results. Other browsers have limitations that impede the use of all features.
+- The Login Page is simple and comes with links in case you forget your username or password.
 
 ![Login-Page](./images/login_page.jpg)
 
