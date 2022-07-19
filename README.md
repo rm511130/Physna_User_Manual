@@ -1,6 +1,7 @@
 ![Physna Gid](./images/physna.gif)
 ![Physna_Logo](./images/Physna_Logo.jpg)
 # End User Guide
+## Overview
 This guide describes the features available to an End User of the Physna Enterprise Platform, a SaaS based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
 - upload models (CAD or SCAN files of parts or assemblies)
 - organize models in folders and projects
@@ -52,7 +53,7 @@ _Note: depending on your Master Services Agreement and the features your company
 ![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)
 
 1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
-2. The tripple horizontal lines open up or closes the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
+2. The tripple horizontal lines open up or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
 3. The question mark icon opens up a "Match Type" help screen that explains the 4 modalities of searches available to the end user directly from the main landing page.
     (i) Ma.tch: finds models that are geometrically similar to a chosen model
     (ii) Part Match: finds models into which your chosen model fits
