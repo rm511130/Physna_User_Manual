@@ -10,7 +10,7 @@ This guide describes the features available to an End User of the Physna Enterpr
 - find matching models within a certain threshold of similarity
 - find all duplicate models
 
-_Note: depending on your Master Services Agreement, some features may not be available to you_.
+_Note: depending on your Master Services Agreement and the features your company subscribed to, some of functionality described in this user guide may not be available to you_.
 
 ## Table of Contents
 
