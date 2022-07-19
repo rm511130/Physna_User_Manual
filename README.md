@@ -37,7 +37,7 @@ _Note: depending on your Master Services Agreement, some features may not be ava
 - Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results. Other browsers have limitations that impede the use of all features.
 - The Login Page is simple and comes with links in case you forget your username or password.
 
-![Login-Page](./images/login_page.jpg)
+![Login-Page](./images/login_page_ext.jpg)
 
 
 
