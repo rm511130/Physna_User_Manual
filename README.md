@@ -31,4 +31,5 @@ This document describes the features available to an End User of the Physna Ente
 
 ## 2. How do I access a Physna environment?
 - As a customer, your Sales and Customer Success teams will have given you a URL to access your firewalled, dedicated, encrypted and monitored Physna Environment. The URL will probably follow the structure __https://my-company.physna.com__ where _my_company_ is the name you agreed to use during discussions with the Customer Success team. 
+- Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment.
 - 
