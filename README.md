@@ -1,13 +1,15 @@
 ![Physna_Logo](./images/Physna_Logo.jpg)
 # End User Guide
-This document describes the features available to an End User of the Physna Enterprise Platform, a SaaS based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
+This guide describes the features available to an End User of the Physna Enterprise Platform, a SaaS based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
 - upload models (CAD or SCAN files of parts or assemblies)
 - organize models in folders and projects
 - add or upload metadata associated to models
 - search for models using 2D photos or 3D models
 - search for models within other models 
 - find matching models within a certain threshold of similarity
-- find all duplicate models 
+- find all duplicate models
+
+_Note: depending on your Master Services Agreement, some features may not be available to you_.
 
 ## Table of Contents
 
@@ -30,6 +32,8 @@ This document describes the features available to an End User of the Physna Ente
 - Physna offers training, consulting and professional services through partner organizations for the customization of the Physna Base Connector that enables uni or bi-directional movement of model and metadata information between PLM Solutions and Physna.
 
 ## 2. How do I access a Physna environment?
-- As a customer, your Sales and Customer Success teams will have given you a URL to access your firewalled, dedicated, encrypted and monitored Physna Environment. The URL will probably follow the structure __https://my-company.physna.com__ where _my_company_ is the name you agreed to use during discussions with the Customer Success team. 
-- Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment.
-- 
+- As a customer, your Sales and Customer Success teams will have given you a URL to access your firewalled, dedicated, and encrypted Physna Environment. The URL will probably follow the structure __https://my-company.physna.com__ where _my_company_ is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
+- Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment. It will probably be your business Email Address or Single-Sign-On ID.
+- Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results. Other browsers have limitations that impede the use of all features.
+
+
