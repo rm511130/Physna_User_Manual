@@ -69,6 +69,7 @@ _Note: depending on your Master Services Agreement and the features your company
 7. The result set with Match % details, model names and the ability to change the chosen model to be used in a "Find mmatches" query. In this section you can also click on "Add to Compare Cart" to add any given pair of models for comparison. Comparisons will be explained in a subsequent section of this user guide.  
 8. Metadata fields associated horizontally to each other and to model in the same row. The titles of the columns can be dragged and moved, hidden and pinned to the left or the right of the displayed.
 ![ellipsis_v2](./images/ellipsis_v2.jpg)
+
 9. Comparison Cart showing any two models to be compared. The models listed in the compare section can be cleared out from the cart or each model can be individually removed from the cart using the "x" next to it. Comparisons will be explained in a subsequent section of this user guide.
 10. Download the contents of the page into using an Excel-friendly format.
 11. Pagination control when the result sets can't be shown on a single page.
