@@ -44,3 +44,7 @@ _Note: depending on your Master Services Agreement, some features may not be ava
 
 ## 3. Navigating the Physna User Interface
 ### 3a. Main Landing Page
+
+![Common Components](./images/Common_Components.mp4)
+
+
