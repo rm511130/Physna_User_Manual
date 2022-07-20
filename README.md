@@ -52,7 +52,7 @@ _Note: depending on your Master Services Agreement and the features your company
 ![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)
 
 1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
-2. The tripple horizontal lines open up or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
+2. The triple horizontal lines open up or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
 3. The question mark icon opens up a "Match Type" help screen that explains the 4 modalities of searches available to the end user directly from the main landing page.
     
     (i) Ma.tch: finds models that are geometrically similar to a chosen model
