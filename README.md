@@ -1,4 +1,3 @@
-![Physna Gid](./images/physna.gif)
 ![Physna_Logo](./images/Physna_Logo.jpg)
 # End User Guide
 ## Overview
