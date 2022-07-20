@@ -18,13 +18,14 @@ _Note: depending on your Master Services Agreement and the features your company
 1. What is Physna and what is it not?
 2. How do I access a Physna environment?
 3. Navigating the Physna User Interface
-4. Solution Architecture
-5. Security
-6. Certifications and Compliance
-7. Help and Support
-8. Service Levels and Known Limitations
-9. FAQ (Frequently Asked Questions)
-10. Terminology
+4. Use Cases - How to apply Physna to solve problems?
+5. Solution SaaS, PaaS and API Architecture
+6. Security
+7. Certifications and Compliance
+8. Help and Support
+9. Service Levels and Known Limitations
+10. FAQ (Frequently Asked Questions)
+11. Terminology
 
 
 ## 1. What is Physna and what is it not?
