@@ -142,7 +142,7 @@ You can adjust the match precentage by moving the green slider bar left and righ
 
 ![duplicates-step-4](./images/duplicates-step-4.png)
 
-Notices that in the lower-left corner of the screen the "Compare Cart" now contains one item.
+Notice that in the lower-left corner of the screen the "Compare Cart" now contains one item.
 
 ![duplicates-step-5](./images/duplicates-step-5.png)
 
