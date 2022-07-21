@@ -46,10 +46,13 @@ _Note: depending on your Master Services Agreement and the features your company
 
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
 ### 3a. Main Landing Page
+
 - The main landing page, as seen below, is packed with features that are one click-away from deliverying great insights into your 3D models. Please note that depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
+
 ![Unmarked_Main_Page](./images/Unmarked_Main_Page.jpg)
 
-- Diving deeper into the main landing page features. Using the annotaded diagram shown below, follow the sequence of numbers and their descriptions:
+- Diving deeper into the main landing page features. Using the annotated diagram shown below, follow the sequence of numbers and their descriptions:
+
 ![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)
 
 1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
@@ -102,11 +105,7 @@ Pressing this button will open the upload page:
 4. Pressing the "Upload Files" button will display standard file selection dialog. Choose one or more files from your local storage to be uploaded
 5. List of recently uploaded files. Mostly for your information
 
-Clicking the "Upload Files" button will open standard file selection dialog. The way that appears will depend on your operating system. Below is an example under MacOS:
-
-![upload-file-selection](./images/upload-file-selection.png)
-
-Once you confirm your file selection the file will be uploaded to Physna and indexing will be intiated. Progress bar in the right side of the page will be displayed.
+Clicking the "Upload Files" button will open standard file selection dialog. The way that appears will depend on your operating system. Once you confirm your file selection the file will be uploaded to Physna and indexing will be intiated. Progress bar in the right side of the page will be displayed.
 
 ![upload-file-success](./images/upload-file-success.png)
 
