@@ -18,13 +18,14 @@ _Note: depending on your Master Services Agreement and the features your company
 1. [What is Physna and what is it not?](#what-is-physna)
 2. [How do I access a Physna environment?](#how-do-i-access)
 3. [Navigating the Physna User Interface](#navigating-the-ui)
-4. Solution SaaS, PaaS and API Architecture
-5. Security
-6. Certifications and Compliance
-7. Help and Support
-8. Service Levels and Known Limitations
-9. FAQ (Frequently Asked Questions)
-10. Terminology
+4. [Example use cases](#use-cases)
+5. Solution SaaS, PaaS and API Architecture
+6. Security
+7. Certifications and Compliance
+8. Help and Support
+9. Service Levels and Known Limitations
+10. FAQ (Frequently Asked Questions)
+11. Terminology
 
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
@@ -111,6 +112,57 @@ Clicking the "Upload Files" button will open standard file selection dialog. The
 
 At this time, the model should be visible in the destimation folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page as shown previously.
 
+## 4. Example Use Cases<a name="use-cases"><a/>
+
+In the previous chapters we learned how to upload a file and how to navigate around the Physna's web site. In this chapter we will provide some examples of the types of practical operations one could perform.
+
+### Searcing for duplicate parts
+
+Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
+
+With large teams and/or number of models, it is often possible to produce duplicate or at least very similar designs. This occurs even in cases where the company utilizes good PLM system. In such cases, we find ourselves in a situation where the same part may be registered with different part numbers and has duplicate 3D models stored.
+
+Physna can find if a particular model exists based on the geometry even in cases when the metadata differs. There are several types of searches, but the simplest one is part-to-part match.
+
+First, we navigate to the folders where our model of interest is. This could be a model that we uploaded and we would like to know if there is some other model that matches it with certain percent of confidence.
+
+![duplicates-step-1](./images/duplicates-step-1.png)
+
+For this example we would like to see if "2.3 Shaft\_holder 1\_Trans Connector\_Front Axle\_Unreal Tractor\_by paX" has any models similar to it.
+
+Selecting it from the list of models in the folder will show a contecxt menu with links to "Find Matches" and "Add to Compare Cart". 
+
+![duplicates-step-2](./images/duplicates-step-2.png)
+
+To find similarities, click on "Find Matches".
+
+![duplicates-step-3](./images/duplicates-step-3.png)
+
+You can adjust the match precentage by moving the green slider bar left and right. In this example, with level of 70% we see two candidates. The first one shows match confidence of 86.88%, which idicates high level of similarity. Hovering over it will display the same options. This time, we would like to inspect visualy the differences. To do that, we will click on "Add to Compare Cart" for that item.
+
+![duplicates-step-4](./images/duplicates-step-4.png)
+
+Notices that in the lower-left corner of the screen the "Compare Cart" now contains one item.
+
+![duplicates-step-5](./images/duplicates-step-5.png)
+
+Click "Add to Compare Cart" on the original part to also added it to the cart.
+
+![duplicates-step-6](./images/duplicates-step-6.png)
+
+With more than one items in the cart, we now see that the "Compare" button is enabled at the bottom of the panel.
+
+![duplicates-step-7](./images/duplicates-step-7.png)
+
+Click that button to open the Comparison Viewer.
+
+![duplicates-step-8](./images/duplicates-step-8.png)
+
+The default view is to show both models side by side, but you can also overlay them or use the "X-Ray" model. Those views offer different controls to adjust how they are presented for best effect. For example, you can adjust the opacity of the models.
+
+![duplicates-step-9](./images/duplicates-step-9.png)
+
+In many cases, it is sufficient to know the percentage of similarity. If it is 100%, you know that the two parts are exact duplicates even when they are registered with different names in your system. Comparing differences is most useful when you are trying to determine how and why the two are different.
 
 
 
