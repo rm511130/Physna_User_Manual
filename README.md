@@ -81,9 +81,24 @@ _Note: depending on your Master Services Agreement and the features your company
     (ii) General settings
    
     (iii) User settings
+    
 13. The ability to toggle the display of results between the tighter table format shown above and the bigger thumbnails format shown below.
+
 ![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)
 
 ### 3b. Uploading Files
 
-In order for Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. 
+In order for Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is located in the upper-right corner of the page as shown here:
+
+![upload-file-step-1-annotated](./images/upload-file-step-1-annotated.png) 
+
+Pressing this button will open the upload page:
+
+![upload-file-details-annotated](./images/upload-file-details-annotated.png)
+
+1. Dropdown that lists all available folders in the environment and allows the user to select the target folder for the upload. The default is "Default Container"
+2. Specify the units of measure (e.g. "inch, mm")
+3. When checked, it will prevent the upload of duplicate files
+4. Pressing the "Upload Files" button will display standard file selection dialog. Choose one or more files from your local storage to be uploaded
+5. List of recently uploaded files. Mostly for your information
+
