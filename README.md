@@ -102,3 +102,17 @@ Pressing this button will open the upload page:
 4. Pressing the "Upload Files" button will display standard file selection dialog. Choose one or more files from your local storage to be uploaded
 5. List of recently uploaded files. Mostly for your information
 
+Clicking the "Upload Files" button will open standard file selection dialog. The way that appears will depend on your operating system. Below is an example under MacOS:
+
+![upload-file-selection](./images/upload-file-selection.png)
+
+Once you confirm your file selection the file will be uploaded to Physna and indexing will be intiated. Progress bar in the right side of the page will be displayed.
+
+![upload-file-success](./images/upload-file-success.png)
+
+At this time, the model should be visible in the destimation folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folders page as shown previously.
+
+
+
+
+
