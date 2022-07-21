@@ -109,7 +109,7 @@ Clicking the "Upload Files" button will open standard file selection dialog. The
 
 ![upload-file-success](./images/upload-file-success.png)
 
-At this time, the model should be visible in the destimation folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folders page as shown previously.
+At this time, the model should be visible in the destimation folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page as shown previously.
 
 
 
