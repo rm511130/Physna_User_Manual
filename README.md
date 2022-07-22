@@ -1,5 +1,6 @@
 ![Physna_Logo](./images/Physna_Logo.jpg)
 # End User Guide
+_(DRAFT)_
 ## Overview
 This guide describes the features available to an End User of the Physna Enterprise Platform, a SaaS based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
 
@@ -19,13 +20,13 @@ _Note: depending on your Master Services Agreement and the features your company
 2. [How do I access a Physna environment?](#how-do-i-access)
 3. [Navigating the Physna User Interface](#navigating-the-ui)
 4. [Example use cases](#use-cases)
-5. Solution SaaS, PaaS and API Architecture
-6. Security
-7. Certifications and Compliance
-8. Help and Support
-9. Service Levels and Known Limitations
-10. FAQ (Frequently Asked Questions)
-11. Terminology
+5. Solution SaaS, PaaS and API Architecture _(...to be continued...)_
+6. Security _(...to be continued...)_
+7. Certifications and Compliance _(...to be continued...)_
+8. [Help and Support](#support) _(...to be continued...)_
+9. Service Levels and Known Limitations _(...to be continued...)_
+10. FAQ (Frequently Asked Questions) _(...to be continued...)_
+11. Terminology _(...to be continued...)_
 
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
@@ -116,13 +117,13 @@ At this time, the model should be visible in the destimation folder. Physna will
 
 In the previous chapters we learned how to upload a file and how to navigate around the Physna's web site. In this chapter we will provide some examples of the types of practical operations one could perform.
 
-### Searcing for duplicate parts
+### Searcing for duplicate/similar parts
 
 Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
 
-With large teams and/or number of models, it is often possible to produce duplicate or at least very similar designs. This occurs even in cases where the company utilizes good PLM system. In such cases, we find ourselves in a situation where the same part may be registered with different part numbers and has duplicate 3D models stored.
+With large teams and/or number of models, it is often possible to produce duplicate or at least very similar designs. This occurs even in cases where the company utilizes good PLM system and practice. In such cases, we find ourselves in a situation where the same part may be registered with different part numbers and has duplicate 3D models stored.
 
-Physna can find if a particular model exists based on the geometry even in cases when the metadata differs. There are several types of searches, but the simplest one is part-to-part match.
+Physna can find if a model exists based on the geometry even in cases when the metadata differs. There are several types of searches, but the simplest one is the simple "Match".
 
 First, we navigate to the folders where our model of interest is. This could be a model that we uploaded and we would like to know if there is some other model that matches it with certain percent of confidence.
 
@@ -131,6 +132,8 @@ First, we navigate to the folders where our model of interest is. This could be 
 For this example we would like to see if "2.3 Shaft\_holder 1\_Trans Connector\_Front Axle\_Unreal Tractor\_by paX" has any models similar to it.
 
 Selecting it from the list of models in the folder will show a contecxt menu with links to "Find Matches" and "Add to Compare Cart". 
+
+__NOTE: You do not need to scroll withing a folder to find your part. You can search for it by name if it is known. Enter the name in the search text field at the top of the main page to quickly navigate to the desired model.__
 
 ![duplicates-step-2](./images/duplicates-step-2.png)
 
@@ -164,6 +167,14 @@ The default view is to show both models side by side, but you can also overlay t
 
 In many cases, it is sufficient to know the percentage of similarity. If it is 100%, you know that the two parts are exact duplicates even when they are registered with different names in your system. Comparing differences is most useful when you are trying to determine how and why the two are different.
 
+_... to be continued ..._
 
+## Help and Support <a name="support"></a>
+
+You can find the details on how to contact the support team at Physna from the main hamburger menu on the main page. Click on the three horizontal lines icon to open the menu and select "Support" last item in the list. This will open a page explaining how to get in touch.
+
+Alternativelly, you can sent an e-mail to [info@physna.com](mailto:info@physna.com?subject=Physna%20Support) with subject "Support".
+
+_... to be continued ..._
 
 
