@@ -2,7 +2,7 @@
 # End User Guide
 _(DRAFT)_
 ## Overview
-This guide describes the features available to an End User of the Physna Enterprise Platform, a SaaS based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
+This guide describes the features available to an End User of the Physna Enterprise Platform, a cloud based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
 
 - upload models (CAD or SCAN files of parts or assemblies)
 - organize models in folders and projects
