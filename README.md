@@ -191,12 +191,14 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     
 ### Physna's Security Fundamentals
     
-    - Trusted cloud infrastructure: Physna leverages GCP's secure-by-design infrastructure, built-in protection, and global network to protect your information, identities, applications, and devices. Our stack builds security through progressive layers that deliver true defense in depth at scale.
+- **Trusted cloud infrastructure**: Physna leverages GCP's secure-by-design infrastructure, built-in protection, and global network to protect your information, identities, applications, and devices. Our stack builds security through progressive layers that deliver true defense in depth at scale.
     
-    - Encryption by default, at rest and in transit: we encrypt data in transit and at rest, ensuring that it can only be accessed by authorized roles and services with audited access to the encryption keys.
+- **Encryption by default, at rest and in transit**: we encrypt data in transit and at rest, ensuring that it can only be accessed by authorized roles and services with audited access to the encryption keys.
     
-    - Continuous Availability: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
+- **Continuous Availability**: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
     
-    
+- **Compliance**: policies and auditable procedures are key to the security of your users and your data.
+(a) _General Data Protection Regulation (GDPR)_: Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to european countries.
+(b) _SOC 2 Type 1_: Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance.
     
     
