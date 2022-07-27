@@ -22,11 +22,13 @@ _Note: depending on your Master Services Agreement and the features your company
 4. [Example use cases](#use-cases)
 5. Architecture _(...to be continued...)_
 6. Security _(...to be continued...)_
-7. Certifications and Compliance _(...to be continued...)_
-8. [Help and Support](#support) _(...to be continued...)_
-9. Service Levels and Known Limitations _(...to be continued...)_
-10. FAQ (Frequently Asked Questions) _(...to be continued...)_
-11. Terminology _(...to be continued...)_
+    - User Mgmt
+    - Okta
+8. Certifications and Compliance _(...to be continued...)_
+9. [Help and Support](#support) _(...to be continued...)_
+10. Service Levels and Known Limitations _(...to be continued...)_
+11. FAQ (Frequently Asked Questions) _(...to be continued...)_
+12. Terminology _(...to be continued...)_
 
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
