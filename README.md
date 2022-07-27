@@ -189,13 +189,14 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     
 ## 7. Security <a name="Security"><a/>     
     
-# Trusted cloud infrastructure
-Physna leverages GCP's secure-by-design infrastructure, built-in protection, and global network to protect your information, identities, applications, and devices. Our stack builds security through progressive layers that deliver true defense in depth at scale.
+### Physna's Security Fundamentals
     
-# Encryption by default, at rest and in transit
-We encrypt data in transit and at rest, ensuring that it can only be accessed by authorized roles and services with audited access to the encryption keys.
+    - Trusted cloud infrastructure: Physna leverages GCP's secure-by-design infrastructure, built-in protection, and global network to protect your information, identities, applications, and devices. Our stack builds security through progressive layers that deliver true defense in depth at scale.
     
-# Continuous Availability 
-Infrastructure underpins how Google Cloud delivers services that meet our high standards for performance, resilience, availability, correctness, and security. Physna takes advantage of native Google features and services to maintain its high-availability goals.
+    - Encryption by default, at rest and in transit: we encrypt data in transit and at rest, ensuring that it can only be accessed by authorized roles and services with audited access to the encryption keys.
+    
+    - Continuous Availability: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
+    
+    
     
     
