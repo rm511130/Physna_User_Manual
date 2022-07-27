@@ -185,5 +185,6 @@ Physna is a cloud-based platform installed as an isolated single tenant in order
     
 ![architecture](./images/architecture.jpg)
     
+Physna uses an API 1st design approach to its solution development as can be concluded from the diagram above. The documentation pertaining to the publicly available API calls can be found here:  https://api.physna.com/v2/docs
     
 
