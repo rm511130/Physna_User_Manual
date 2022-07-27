@@ -20,8 +20,9 @@ _Note: depending on your Master Services Agreement and the features your company
 2. [How do I access a Physna environment?](#how-do-i-access)
 3. [Navigating the Physna User Interface](#navigating-the-ui)
 4. [Example use cases](#use-cases)
-5. Architecture _(...to be continued...)_
-6. Security _(...to be continued...)_
+5. [Help and Support](#help_and_support)
+6. Architecture _(...to be continued...)_
+7. Security _(...to be continued...)_
     - User Management
     - Okta Single Sign On
 8. Certifications and Compliance _(...to be continued...)_
@@ -171,7 +172,7 @@ In many cases, it is sufficient to know the percentage of similarity. If it is 1
 
 _... to be continued ..._
 
-## Help and Support <a name="support"></a>
+## 5. Help and Support <a name="help_and_support"><a/>
 
 You can find the details on how to contact the support team at Physna from the main hamburger menu on the main page. Click on the three horizontal lines icon to open the menu and select "Support" last item in the list. This will open a page explaining how to get in touch.
 
