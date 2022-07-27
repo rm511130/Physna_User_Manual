@@ -21,15 +21,14 @@ _Note: depending on your Master Services Agreement and the features your company
 3. [Navigating the Physna User Interface](#navigating-the-ui)
 4. [Example use cases](#use-cases)
 5. [Help and Support](#help_and_support)
-6. Architecture _(...to be continued...)_
+6. [Architecture](#architecture)
 7. Security _(...to be continued...)_
     - User Management
     - Okta Single Sign On
 8. Certifications and Compliance _(...to be continued...)_
-9. [Help and Support](#support) _(...to be continued...)_
-10. Service Levels and Known Limitations _(...to be continued...)_
-11. FAQ (Frequently Asked Questions) _(...to be continued...)_
-12. Terminology _(...to be continued...)_
+9. Service Levels and Known Limitations _(...to be continued...)_
+10. FAQ (Frequently Asked Questions) _(...to be continued...)_
+11. Terminology _(...to be continued...)_
 
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
@@ -178,6 +177,13 @@ You can find the details on how to contact the support team at Physna from the m
 
 Alternatively, you can sent an e-mail to [info@physna.com](mailto:info@physna.com?subject=Physna%20Support) with subject "Support".
 
-_... to be continued ..._
+If you have a critical issue that requires immediate attention, please contact your Physna Account Team.
 
+## 6. Architecture <a name="Architecture"><a/>    
+    
+Physna is a cloud-based platform installed as an isolated single tenant in order to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna:
+    
+![architecture](./images/architecture.jpg)
+    
+    
 
