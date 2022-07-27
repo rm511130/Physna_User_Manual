@@ -22,7 +22,7 @@ _Note: depending on your Master Services Agreement and the features your company
 4. [Example use cases](#use-cases)
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
-7. Security _(...to be continued...)_
+7. [Security](#security)
     - User Management
     - Okta Single Sign On
 8. Certifications and Compliance _(...to be continued...)_
@@ -181,10 +181,21 @@ If you have a critical issue that requires immediate attention, please contact y
 
 ## 6. Architecture <a name="Architecture"><a/>    
     
-Physna is a cloud-based platform installed as an isolated single tenant in order to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna:
+Physna is a cloud-based platform installed as an isolated single tenant in order to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna. 
     
 ![architecture](./images/architecture.jpg)
     
-Physna uses an API 1st design approach to its solution development as can be concluded from the diagram above. The documentation pertaining to the publicly available API calls can be found here:  https://api.physna.com/v2/docs
+Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an API 1st design approach means that the cloud hosting the services is not as important as the public API services. The documentation pertaining to the publicly available API calls can be found at  https://api.physna.com/v2/docs and is in constant evolution.
     
-
+## 7. Security <a name="Security"><a/>     
+    
+# Trusted cloud infrastructure
+Physna leverages GCP's secure-by-design infrastructure, built-in protection, and global network to protect your information, identities, applications, and devices. Our stack builds security through progressive layers that deliver true defense in depth at scale.
+    
+# Encryption by default, at rest and in transit
+We encrypt data in transit and at rest, ensuring that it can only be accessed by authorized roles and services with audited access to the encryption keys.
+    
+# Continuous Availability 
+Infrastructure underpins how Google Cloud delivers services that meet our high standards for performance, resilience, availability, correctness, and security. Physna takes advantage of native Google features and services to maintain its high-availability goals.
+    
+    
