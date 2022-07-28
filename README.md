@@ -214,7 +214,7 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
    7) Impact assessment: carry out a data protection impact assessment.
    8) Data Protection Officers (DPO's): have an identified DPO.
 
-    **b) _SOC 2 Type 1_:** Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought after security framework for SaaS companies because it demonstrates a company's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
+    **b) _SOC 2 (System and Organization Controls)_:** Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought after security framework for SaaS companies because it demonstrates a company's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
    1) Continuous Monitoring
    2) Reliable Alerts
    3) Secure Cloud Infrastructure Configuration
@@ -226,10 +226,10 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
 
     **c) _NIST 800-171_:** Physna is NIST SP800-171 or just 800-171 compliant. NIST 800-171 is a codification of the requirements that any non-Federal computer system must follow in order to store, process, or transmit Controlled Unclassified Information (CUI) or provide security protection for such systems. The exact requirements for NIST SP 800-171 revision 2 can be found at https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r2.pdf. NIST SP 800-171 compliance is currently required by some Department of Defense contracts via DFARS clause 252.204-7012. The DoD Office of Sponsored Programs verifies and ensures that NIST 800-171 requirements are applicable. The key requirements fall into the following 14 categories.
    1) Access Control    
-   2) Awareness And Training    
-   3) Audit And Accountability    
+   2) Awareness and Training    
+   3) Audit and Accountability    
    4) Configuration Management   
-   5) Identification And Authentication    
+   5) Identification and Authentication    
    6) Incident Response    
    7) Maintenance    
    8) Media Protection     
@@ -237,8 +237,8 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
    10) Physical Protection    
    11) Risk Assessment     
    12) Security Assessment    
-   13) System And Communications Protection   
-   14) System And Information Integrity
+   13) System and Communications Protection   
+   14) System and Information Integrity
 
     **d) _Cybersecurity Maturity Model Certification (CMMC)_:** Physna is CMMC Level 2 compliant. The DoD's Cybersecurity Maturity Model Certification (CMMC) program, which is related to NIST SP800-171, but contains 3 different levels, has additional controls, and requires showing a maturity level. Being CMMC compliant requires that companies entrusted with national security information implement cybersecurity standards at progressively advanced levels, depending on the type and sensitivity of the information. The program also sets forward the process for information flow down to subcontractors.    
    1) CMMC level 1: Safeguard federal contract information.
@@ -274,3 +274,11 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     3) Find an Agency partner that will issue an “Authorization to Operate” (ATO). The ATO is the official management decision given by a senior Federal official to authorize operation of an information system and to explicitly accept the risk to agency operations. The natural Agency partner to work with for a FedRAMP authorization is one that is using your product or is committed to using your product.
     4) Define Physna's boundary: an authorization boundary describes a cloud system’s internal components and connections to external services and systems and accounts for the flow of all federal information and metadata through the system. It illustrates a CSP’s (Cloud Service Provider) scope of control over the system in addition to any system components or services that are leveraged from external services or controlled by the customer. As a core component of any FedRAMP System Security Plan (SSP), it is imperative that CSPs understand how to accurately describe and illustrate their cloud system’s authorization boundary. 
     5) Approach FedRAMP as a continuous program: the initial authorization represents a major milestone, but only represents a system’s risk posture at a single point in time. Security applies throughout the lifecycle of a system; cloud services must be continuously monitored and kept up to date to ensure the appropriate risk posture is maintained.
+
+### User Management
+    
+Physna has 4 user roles:
+    - Viewer: Viewers cannot make any changes to Files, Folders or Projects; they are only able to view Files, run queries, as well as download Files and Metadata.
+    - Author: an Author can upload, edit, and delete Files. They can also add or remove Folders and Project.
+    - Administrator: an Administrator can add, remove, and change Users; they can change ownership of Files, Folders, and Projects, change settings, as well as perform any functions that Authors and Viewers are allowed to perform.
+    - SA (Super Administrator): one or two Super Administrators must be identified per Physna environment. The SA is the only role allowed to change certain settings and parameters that affect the overall behavior of the Physna environment. For example: number of processor threads or background execution of batch functions. The role was necessary when Physna offered an on-site installation of its software. The role will soon be deprecated because Physna no longer supports on-site installations of its enterprise solution.
