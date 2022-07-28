@@ -275,6 +275,11 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     4) Define Physna's boundary: an authorization boundary describes a cloud system’s internal components and connections to external services and systems and accounts for the flow of all federal information and metadata through the system. It illustrates a CSP’s (Cloud Service Provider) scope of control over the system in addition to any system components or services that are leveraged from external services or controlled by the customer. As a core component of any FedRAMP System Security Plan (SSP), it is imperative that CSPs understand how to accurately describe and illustrate their cloud system’s authorization boundary. 
     5) Approach FedRAMP as a continuous program: the initial authorization represents a major milestone, but only represents a system’s risk posture at a single point in time. Security applies throughout the lifecycle of a system; cloud services must be continuously monitored and kept up to date to ensure the appropriate risk posture is maintained.
 
+### Cookies 
+    
+![image](https://user-images.githubusercontent.com/11321060/181404974-f6a923fd-2f7f-4b2a-81bb-50c7b16499c9.png)
+    
+    
 ### User Management
     
 **Physna's users can assume one of 4 user roles:**
@@ -286,4 +291,8 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     
 - **SA (Super Administrator)**: one or two Super Administrators must be identified per Physna environment. The SA is the only role allowed to change certain settings and parameters that affect the overall behavior of the Physna environment. For example: number of processor threads or background execution of batch functions. The role was necessary when Physna offered an on-site installation of its software. The role will soon be deprecated because Physna no longer supports on-site installations of its enterprise solution.
 
+**Initial Enterprise Environment Set-up**
+
+A Physna environment is set-up by Physna's Engineering team and delivered by the Customer Success Team as part of an implementation engagement. When accessing Physna for the 1st time, an end user will go through the following steps:
     
+
