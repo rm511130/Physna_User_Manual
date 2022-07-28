@@ -302,10 +302,13 @@ A Physna environment is set up by Physna's Engineering team and delivered by Phy
    ![User Creation](./images/user_creation.png)
    
    2. User checks for an email from Okta (it expires 7 days after being issued)
+   
+   ![email_from_okta](./images/email_from_okta.png)
+   
    3. User follows the Okta workflow to create a password
    
    ![okta-workflow](./images/okta-workflow.png)
    
-   4. 
-   4. User goes to https://my-company.physna.com and logs in 
+   4. User will be re-directed to https://physna.com upon completion of the Okta workflow.
+   5. User goes to https://my-company.physna.com and logs in for the first time and accepts cookies message.
 
