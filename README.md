@@ -301,7 +301,7 @@ A Physna environment is set up by Physna's Engineering team and delivered by Phy
 
    ![User Creation](./images/user_creation.png)
    
-   2. The new user checks for an email from Okta. It expires 7 days after being issued and can only be used once. If one attempt a second time, a "Token Expired" message is displayed. 
+   2. The new user checks for an email from Okta. It expires 7 days after being issued and can only be used once. If one attempts to use the same link for a second time, a "Token Expired" message is displayed. 
    
    ![email_from_okta](./images/email_from_okta.png)
    
