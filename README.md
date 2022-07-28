@@ -277,8 +277,13 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
 
 ### User Management
     
-Physna has 4 user roles:
-    - Viewer: Viewers cannot make any changes to Files, Folders or Projects; they are only able to view Files, run queries, as well as download Files and Metadata.
-    - Author: an Author can upload, edit, and delete Files. They can also add or remove Folders and Project.
-    - Administrator: an Administrator can add, remove, and change Users; they can change ownership of Files, Folders, and Projects, change settings, as well as perform any functions that Authors and Viewers are allowed to perform.
-    - SA (Super Administrator): one or two Super Administrators must be identified per Physna environment. The SA is the only role allowed to change certain settings and parameters that affect the overall behavior of the Physna environment. For example: number of processor threads or background execution of batch functions. The role was necessary when Physna offered an on-site installation of its software. The role will soon be deprecated because Physna no longer supports on-site installations of its enterprise solution.
+**Physna's users can assume one of 4 user roles:**
+- **Viewer:** Viewers cannot make any changes to Files, Folders or Projects; they are only able to view Files, run queries, as well as download Files and Metadata.
+
+- **Author:** an Author can upload, edit, and delete Files. They can also add or remove Folders and Project.
+    
+- **Administrator:** an Administrator can add, remove, and change Users; they can change ownership of Files, Folders, and Projects, change settings, as well as perform any functions that Authors and Viewers are allowed to perform.
+    
+- **SA (Super Administrator)**: one or two Super Administrators must be identified per Physna environment. The SA is the only role allowed to change certain settings and parameters that affect the overall behavior of the Physna environment. For example: number of processor threads or background execution of batch functions. The role was necessary when Physna offered an on-site installation of its software. The role will soon be deprecated because Physna no longer supports on-site installations of its enterprise solution.
+
+    
