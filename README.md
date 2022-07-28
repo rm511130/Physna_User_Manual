@@ -23,9 +23,10 @@ _Note: depending on your Master Services Agreement and the features your company
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
 7. [Security](#security)
-    - Security Fundamentals
-    - Compliance and Certifications
-    - User Management
+   1) [Security Fundamentals](#fundamentals)
+   2) [Compliance and Certifications](#compliance)
+   3) [Cookies](#cookies)
+   4) [User Management](#user_management)
 8. Certifications and Compliance _(...to be continued...)_
 9. Service Levels and Known Limitations _(...to be continued...)_
 10. FAQ (Frequently Asked Questions) _(...to be continued...)_
@@ -180,7 +181,7 @@ Alternatively, you can sent an e-mail to [info@physna.com](mailto:info@physna.co
 
 If you have a critical issue that requires immediate attention, please contact your Physna Account Team.
 
-## 6. Architecture <a name="Architecture"><a/>    
+## 6. Architecture <a name="architecture"><a/>    
     
 Physna is a cloud-based platform installed as an isolated single tenant in order to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna. 
     
@@ -188,9 +189,9 @@ Physna is a cloud-based platform installed as an isolated single tenant in order
     
 Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an API 1st design approach means that the cloud hosting the services is not as important as the public API services. The documentation pertaining to the publicly available API calls can be found at  https://api.physna.com/v2/docs and is in constant evolution.
     
-## 7. Security <a name="Security"><a/>     
+## 7. Security <a name="security"><a/>     
     
-### Physna's Security Fundamentals
+### Physna's Security Fundamentals <a name="fundamentals"><a/>  
     
 - **Trusted cloud infrastructure**: Physna leverages GCP's secure-by-design infrastructure, built-in protection, and global network to protect your information, identities, applications, and devices. Our stack builds security through progressive layers that deliver true defense in depth at scale.
     
@@ -199,10 +200,10 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
 - **Continuous Availability**: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
     
 - **Compliance**: policies and auditable procedures are key to the security of your users and your data.
-    
-### Compliance and Certifications
-    
-- **Standards of compliance and certificcations**
+
+### Compliance and Certifications <a name="compliance"><a/>
+
+- **Current State**:
 
     **a) _General Data Protection Regulation (GDPR)_:** Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to european countries. The key characteristics of being GDPR compliant can be summarized as follows:
    1) Awareness and Communication: ensure Physna employees understand GDPR and communicate with service and staff about why you are collecting the data.
@@ -275,12 +276,14 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     4) Define Physna's boundary: an authorization boundary describes a cloud system’s internal components and connections to external services and systems and accounts for the flow of all federal information and metadata through the system. It illustrates a CSP’s (Cloud Service Provider) scope of control over the system in addition to any system components or services that are leveraged from external services or controlled by the customer. As a core component of any FedRAMP System Security Plan (SSP), it is imperative that CSPs understand how to accurately describe and illustrate their cloud system’s authorization boundary. 
     5) Approach FedRAMP as a continuous program: the initial authorization represents a major milestone, but only represents a system’s risk posture at a single point in time. Security applies throughout the lifecycle of a system; cloud services must be continuously monitored and kept up to date to ensure the appropriate risk posture is maintained.
 
-### Cookies 
+### Cookies <a name="cookies"><a/>
+
+When 1st accessing Physna, you will be asked to accept cookies per the example shown below:
     
-![image](https://user-images.githubusercontent.com/11321060/181404974-f6a923fd-2f7f-4b2a-81bb-50c7b16499c9.png)
+![image](./images/181404974-f6a923fd-2f7f-4b2a-81bb-50c7b16499c9.png)
     
     
-### User Management
+### User Management <a name="user_management"><a/>
     
 **Physna's users can assume one of 4 user roles:**
 - **Viewer:** Viewers cannot make any changes to Files, Folders or Projects; they are only able to view Files, run queries, as well as download Files and Metadata.
