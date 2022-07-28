@@ -241,6 +241,26 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
    3) CMMC level 3: Protect CUI.
    4) CMMC levels 4-5: Protect CUI and reduce the risk of advanced persistent threats
     
-    e) _NIST 800-53_: Physna complies with NIST 800-53 which is designed to provide a foundation of guiding elements, strategies, systems, and controls, that can agnostically support any organization’s cybersecurity needs and priorities. By establishing a framework available to all, it fosters communication and allows organizations to speak using a shared language. NIST 800-53 does not specifically support or suggest specific tools, companies, or vendors (intentionally so); it’s designed to be used as new technologies, systems, environments, and organizational changes arise, shifting cybersecurity needs.
+    e) _NIST 800-53_: Physna complies with NIST 800-53 which is designed to provide a foundation of guiding elements, strategies, systems, and controls, that can agnostically support any organization’s cybersecurity needs and priorities. By establishing a framework available to all, it fosters communication and allows organizations to speak using a shared language. NIST 800-53 does not specifically support or suggest specific tools, companies, or vendors (intentionally so); it’s designed to be used as new technologies, systems, environments, and organizational changes arise, shifting cybersecurity needs. The NIST 800-53 framework provides a number of different controls and guidance across multiple security and access control families defined under a baseline of impact: low, medium and high. The controls are then designated across 20 security and control families:
+   1) AC (Access control): Account management and monitoring, enforcing the policy of least privilege principle, and separation of duties.
+   2) AT (Awareness and training): Providing awareness and security training to employees, and elevated technical training for more privileged users.
+   3) AU (Audit and accountability): Auditing records and content, retaining records, and providing associated analysis and reporting
+   4) CA (Assessment, authorization and monitoring): Penetration testing, and monitoring connections to public networks and external systems 
+   5) CM (Configuration management): Implementing configuration change controls, and setting authorized software policies
+   6) CP (Contingency planning): Establishing and testing business continuity strategies, as well as alternate processing and storage sides.
+   7) IA (Identification and authentication): Managing credentials and setting up authentication policies and systems in place for users, devices, and services.
+   8) IP (Individual participation): Obtaining consent and authorizing privacy policies and practices.
+   9) IR (Incident response): Setting up incident response training and setting up associated monitoring and reporting systems.
+   10) MA (Maintenance): Having an ongoing system, personnel, and tool maintenance.
+   11) MP (Media protection): Securing and protecting media access, use, storage, and transportation.
+   12) PA (Privacy authorization): Setting policies for collecting, using, and sharing personally identifiable information(PII)
+   13) PE (Physical and environmental protection): Ensuring access to emergency power, securing physical access, and protecting against physical risk and damage.
+   14) PM (Program management): Having defined strategies for risk management, insider threats, and scaling architecture.
+   15) PL (Planning): Having strategies in place for comprehensive security architecture (such as defense in depth and third-party vendor security)
+   16) PS (Personnel security): Screening internal and external personnel, setting up termination and transfer security policies.
+   17) RA (Risk assessment): Scanning vulnerabilities, having ongoing privacy impact, and risk assessments.
+   18) SA (System and services acquisition): Implementing security across the system development lifecycle, new vendor contracts, and acquisitions.
+   19) SC (System and communications protection): Partitioning applications, implementing cryptographic key management, and securing passwords and other sensitive data.
+   20) SI (System and information integrity): Implementing system monitoring, alerting systems, and flaw remediation processes.
 
 
