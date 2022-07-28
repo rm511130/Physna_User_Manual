@@ -294,8 +294,12 @@ When 1st accessing Physna, you will be asked to accept cookies per the example s
     
 - **SA (Super Administrator)**: one or two Super Administrators must be identified per Physna environment. The SA is the only role allowed to change certain settings and parameters that affect the overall behavior of the Physna environment. For example: number of processor threads or background execution of batch functions. The role was necessary when Physna offered an on-site installation of its software. The role will soon be deprecated because Physna no longer supports on-site installations of its enterprise solution.
 
-**Initial Enterprise Environment Set-up**
+**Initial Enterprise Environment User Set-up**
 
-A Physna environment is set-up by Physna's Engineering team and delivered by the Customer Success Team as part of an implementation engagement. When accessing Physna for the 1st time, an end user will go through the following steps:
+A Physna environment is set-up by Physna's Engineering team and delivered by the Customer Success Team as part of an implementation engagement which will include the creation of one or two System Administrators and their training. The subsequent set up of additional users is performed by one of the System Administrators. The steps are as follows: 
+   
+   1. System Administrator adds user to Physna
+   2. Check for an email from Okta (it expires 7hrs after being issued)
+   2. Follow the Okta workflow to create a password
     
 
