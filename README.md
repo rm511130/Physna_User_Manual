@@ -179,11 +179,12 @@ _... to be continued ..._
 
 ## 6. Architecture <a name="architecture"><a/>    
     
-Physna is a cloud-based platform installed as an isolated single tenant in order to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna. 
+- Physna is a cloud-based platform installed as an isolated single tenant in order to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna. 
     
 ![architecture](./images/architecture.jpg)
     
-Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an API 1st design approach means that the cloud hosting the services is not as important as the public API services. The documentation pertaining to the publicly available API calls can be found at  https://api.physna.com/v2/docs and is in constant evolution.
+- Physna is only available on GCP (Google Cloud Platform). Physna's API 1st architecture means that the Cloud Service Provider hosting Physna's services is effectively shielded by a layer of Physna's Public API services. As an end user, you will not be directly exposed to the Cloud Service Provider's services and will therefore not need to manage them. 
+- The documentation pertaining to the publicly available API calls can be found at  https://api.physna.com/v2/docs and is in constant evolution.
     
 ## 7. Security <a name="security"><a/>     
     
