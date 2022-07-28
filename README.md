@@ -27,10 +27,9 @@ _Note: depending on your Master Services Agreement and the features your company
    2) [Compliance and Certifications](#compliance)
    3) [Cookies](#cookies)
    4) [User Management](#user_management)
-8. Certifications and Compliance _(...to be continued...)_
-9. Service Levels and Known Limitations _(...to be continued...)_
-10. FAQ (Frequently Asked Questions) _(...to be continued...)_
-11. Terminology _(...to be continued...)_
+8. Service Levels and Known Limitations _(...to be continued...)_
+9. FAQ (Frequently Asked Questions) _(...to be continued...)_
+10. Terminology _(...to be continued...)_
 
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
