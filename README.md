@@ -1,6 +1,6 @@
 ![Physna_Logo](./images/Physna_Logo.jpg)
 # End User Guide v1.0.0
-_(DRAFT)_
+
 ## Overview
 This guide describes the features available to an End User of the Physna Enterprise Platform, a cloud-based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
 
@@ -27,10 +27,6 @@ _Note: depending on your Master Services Agreement and the features your company
    2) [Compliance and Certifications](#compliance)
    3) [Cookies](#cookies)
    4) [User Management](#user_management)
-8. Service Levels and Known Limitations _(...to be continued...)_
-9. FAQ (Frequently Asked Questions) _(...to be continued...)_
-10. Terminology _(...to be continued...)_
-
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
 - Physna is a company on a journey to empower human creativity by connecting the physical and digital worlds. Physna was founded on the principle that computers should be taught to accurately “think” in 3D – sorting and analyzing geometric objects like written code. Physna is building a future where people have the tools they need to design and analyze the parts and products that shape our world, to create and drive innovation in product design, 3D printing, augmented and virtual reality, gaming, healthcare, and beyond.
