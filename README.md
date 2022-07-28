@@ -198,7 +198,23 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
 - **Continuous Availability**: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
     
 - **Compliance**: policies and auditable procedures are key to the security of your users and your data.
-(a) _General Data Protection Regulation (GDPR)_: Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to european countries.
-(b) _SOC 2 Type 1_: Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance.
-    
-    
+
+    a) _General Data Protection Regulation (GDPR)_: Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to european countries. The key characteristics of being GDPR compliant can be summarized as follows:
+   1) Awareness and Communication: ensure Physna employees understand GDPR and communicate with service and staff about why you are collecting the data.
+   2) Analysis of Personal Data: analysis of a list of all sensitive data that Physna stores and processes.
+   3) Review Procedures: have a suitable privacy policy in place and review it regularly.
+   4) Access Rights: list what access rights should be granted and how changes should be handled.
+   5) Customer Consent: ensure Physna's customers consent to the processing of their data.
+   6) Data Breaches: create and implement a procedure for handling data breaches.
+   7) Impact assessment: carry out a data protection impact assessment.
+   8) Data Protection Officers (DPO's): have an identified DPO.
+
+    b) _SOC 2 Type 1_: Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought after security framework for SaaS companies because it demonstrates Physna's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
+   1) Continuous Monitoring
+   2) Reliable Alerts
+   3) Secure Cloud Infrastructure Configuration
+   4) Laptop and Desktop Management
+   5) Vendor Management
+   6) Policy Templates for Business Practices
+   7) Security Reports
+   9) Auditor Partner Network
