@@ -43,7 +43,8 @@ _Note: depending on your Master Services Agreement and the features your company
 
 ![Login-Page](./images/login_page_ext.jpg)
 
-- When you first access a Physna Environment, you will be asked to set preferences or accept the storing of cookies on your device.
+- When you first access a Physna Environment, you will be asked to set preferences and to accept the storing of cookies on your device.
+- If your username needs to be created, please refer to the [User Management](#user_management) section of this User Guide.
 
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
 ### 3a. Main Landing Page
