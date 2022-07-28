@@ -297,18 +297,18 @@ When 1st accessing Physna, you will be asked to accept cookies per the example s
 
 A Physna environment is set up by Physna's Engineering team and delivered by Physna's Customer Success Team as part of an implementation engagement. This initial engagement typically includes the creation of one or two System Administrators as well as their basic administration training. The subsequent set up of additional users is performed by one of the System Administrators and completed by the end user himself/herself. The steps are as follows: 
    
-   1. System Administrator adds user to Physna
+   1. The System Administrator adds the new user to Physna as shown below:
 
    ![User Creation](./images/user_creation.png)
    
-   2. User checks for an email from Okta (it expires 7 days after being issued)
+   2. The new user checks for an email from Okta. It expires 7 days after being issued and can only be used once. If one attempt a second time, a "Token Expired" message is displayed. 
    
    ![email_from_okta](./images/email_from_okta.png)
    
-   3. User follows the Okta workflow to create a password
+   3. The new user follows the Okta workflow to create a password as shown below:
    
    ![okta-workflow](./images/okta-workflow.png)
    
-   4. User will be re-directed to https://physna.com upon completion of the Okta workflow.
-   5. User goes to https://my-company.physna.com and logs in for the first time and accepts cookies message.
+   4. The new user will be re-directed to https://physna.com upon completion of the Okta workflow.
+   5. He or she should then type in their https://my-company.physna.com address and log in for the first time.
 
