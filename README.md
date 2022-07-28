@@ -184,7 +184,7 @@ _... to be continued ..._
 ![architecture](./images/architecture.jpg)
     
 - Physna is only available on GCP (Google Cloud Platform). Physna's API 1st architecture means that the Cloud Service Provider hosting Physna's services is effectively shielded by a layer of Physna's Public API services. As an end user, you will not be directly exposed to the Cloud Service Provider's services and will therefore not need to manage them. 
-- The documentation pertaining to the publicly available API calls can be found at  https://api.physna.com/v2/docs and is in constant evolution.
+- The documentation pertaining to the publicly available API calls can be found at  https://api.physna.com/v2/docs.
     
 ## 7. Security <a name="security"><a/>     
     
