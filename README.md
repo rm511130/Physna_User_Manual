@@ -197,7 +197,7 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     
 - **Continuous Availability**: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
     
-- **Compliance**: policies and auditable procedures are key to the security of your users and your data.
+- **Compliance**: policies and auditable procedures are key to the security of your users and your data. There is quite a lot of overlap between different regulations, standards and certifications as can be seen below:
 
     a) _General Data Protection Regulation (GDPR)_: Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to european countries. The key characteristics of being GDPR compliant can be summarized as follows:
    1) Awareness and Communication: ensure Physna employees understand GDPR and communicate with service and staff about why you are collecting the data.
@@ -209,7 +209,7 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
    7) Impact assessment: carry out a data protection impact assessment.
    8) Data Protection Officers (DPO's): have an identified DPO.
 
-    b) _SOC 2 Type 1_: Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought after security framework for SaaS companies because it demonstrates Physna's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
+    b) _SOC 2 Type 1_: Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought after security framework for SaaS companies because it demonstrates a company's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
    1) Continuous Monitoring
    2) Reliable Alerts
    3) Secure Cloud Infrastructure Configuration
@@ -218,3 +218,29 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
    6) Policy Templates for Business Practices
    7) Security Reports
    9) Auditor Partner Network
+
+    c) _NIST 800-171_: Physna is NIST SP800-171 or just 800-171 compliant. NIST 800-171 is a codification of the requirements that any non-Federal computer system must follow in order to store, process, or transmit Controlled Unclassified Information (CUI) or provide security protection for such systems. The exact requirements for NIST SP 800-171 revision 2 can be found at https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r2.pdf. NIST SP 800-171 compliance is currently required by some Department of Defense contracts via DFARS clause 252.204-7012. The DoD Office of Sponsored Programs verifies and ensures that NIST 800-171 requirements are applicable. The key requirements fall into the following 14 categories.
+   1) Access Control    
+   2) Awareness And Training    
+   3) Audit And Accountability    
+   4) Configuration Management   
+   5) Identification And Authentication    
+   6) Incident Response    
+   7) Maintenance    
+   8) Media Protection     
+   9) Personnel Security    
+   10) Physical Protection    
+   11) Risk Assessment     
+   12) Security Assessment    
+   13) System And Communications Protection   
+   14) System And Information Integrity
+
+    d) _Cybersecurity Maturity Model Certification (CMMC)_: Physna is CMMC Level 2 compliant. The DoD's Cybersecurity Maturity Model Certification (CMMC) program, which is related to NIST SP800-171, but contains 3 different levels, has additional controls, and requires showing a maturity level. Being CMMC compliant requires that companies entrusted with national security information implement cybersecurity standards at progressively advanced levels, depending on the type and sensitivity of the information. The program also sets forward the process for information flow down to subcontractors.    
+   1) CMMC level 1: Safeguard federal contract information.
+   2) CMMC level 2: Serve as a transition step in cybersecurity maturity progression to protection controlled unclassified information.
+   3) CMMC level 3: Protect CUI.
+   4) CMMC levels 4-5: Protect CUI and reduce the risk of advanced persistent threats
+    
+    e) _NIST 800-53_: Physna complies with NIST 800-53 which is designed to provide a foundation of guiding elements, strategies, systems, and controls, that can agnostically support any organization’s cybersecurity needs and priorities. By establishing a framework available to all, it fosters communication and allows organizations to speak using a shared language. NIST 800-53 does not specifically support or suggest specific tools, companies, or vendors (intentionally so); it’s designed to be used as new technologies, systems, environments, and organizational changes arise, shifting cybersecurity needs.
+
+
