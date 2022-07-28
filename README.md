@@ -23,8 +23,9 @@ _Note: depending on your Master Services Agreement and the features your company
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
 7. [Security](#security)
+    - Security Fundamentals
+    - Compliance and Certifications
     - User Management
-    - Okta Single Sign On
 8. Certifications and Compliance _(...to be continued...)_
 9. Service Levels and Known Limitations _(...to be continued...)_
 10. FAQ (Frequently Asked Questions) _(...to be continued...)_
@@ -197,7 +198,9 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
     
 - **Continuous Availability**: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
     
-- **Compliance**: policies and auditable procedures are key to the security of your users and your data. There is quite a lot of overlap between different regulations, standards and certifications as can be seen below:
+- **Compliance**: policies and auditable procedures are key to the security of your users and your data.
+    
+### Compliance and Certifications
 
     a) _General Data Protection Regulation (GDPR)_: Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to european countries. The key characteristics of being GDPR compliant can be summarized as follows:
    1) Awareness and Communication: ensure Physna employees understand GDPR and communicate with service and staff about why you are collecting the data.
@@ -263,4 +266,9 @@ Physna is only available on GCP (Google Cloud Platform). Physna's adoption of an
    19) SC (System and communications protection): Partitioning applications, implementing cryptographic key management, and securing passwords and other sensitive data.
    20) SI (System and information integrity): Implementing system monitoring, alerting systems, and flaw remediation processes.
 
-
+   f) _FedRAMP (Federal Risk and Authorization Management Program)_: Physna's certification and compliance roadmap will ultimately get to FedRAMP Levels 1 and 2. In order to attain FedRAMP compliance Physna will be working through the following steps:
+    1) Gap analysis to understand how the current “as-is” environment aligns to the FedRAMP security requirements.
+    2) Confirm executive leadership buy-in and the support of all stakeholders familiar with SOC, ISO, CMMC, and other standards.
+    3) Find an Agency partner that will issue an “Authorization to Operate” (ATO). The ATO is the official management decision given by a senior Federal official to authorize operation of an information system and to explicitly accept the risk to agency operations. The natural Agency partner to work with for a FedRAMP authorization is one that is using your product or is committed to using your product.
+    4) Define Physna's boundary: an authorization boundary describes a cloud system’s internal components and connections to external services and systems and accounts for the flow of all federal information and metadata through the system. It illustrates a CSP’s (Cloud Service Provider) scope of control over the system in addition to any system components or services that are leveraged from external services or controlled by the customer. As a core component of any FedRAMP System Security Plan (SSP), it is imperative that CSPs understand how to accurately describe and illustrate their cloud system’s authorization boundary. 
+    5) Approach FedRAMP as a continuous program: the initial authorization represents a major milestone, but only represents a system’s risk posture at a single point in time. Security applies throughout the lifecycle of a system; cloud services must be continuously monitored and kept up to date to ensure the appropriate risk posture is maintained.
