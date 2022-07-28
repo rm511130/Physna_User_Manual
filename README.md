@@ -295,10 +295,15 @@ When 1st accessing Physna, you will be asked to accept cookies per the example s
 
 **Initial Enterprise Environment User Set-up**
 
-A Physna environment is set-up by Physna's Engineering team and delivered by the Customer Success Team as part of an implementation engagement which will include the creation of one or two System Administrators and their training. The subsequent set up of additional users is performed by one of the System Administrators. The steps are as follows: 
+A Physna environment is set-up by Physna's Engineering team and delivered by the Customer Success Team as part of an implementation engagement. This initial engagement typically includes the creation of one or two System Administrators as well as their basic administration training. The subsequent set up of additional users is performed by one of the System Administrators and completed by the end user himself/herself. The steps are as follows: 
    
    1. System Administrator adds user to Physna
-   2. Check for an email from Okta (it expires 7hrs after being issued)
-   2. Follow the Okta workflow to create a password
-    
+   2. User checks for an email from Okta (it expires 7hrs after being issued)
+   3. User follows the Okta workflow to create a password
+   4. User goes to https://my-company.physna.com and logs in 
+
+   ![User Creation](./images/user_creation.png)
+   
+   
+
 
