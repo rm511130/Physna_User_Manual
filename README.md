@@ -171,11 +171,11 @@ _... to be continued ..._
 
 ## 5. Help and Support <a name="help_and_support"><a/>
 
-You can find the details on how to contact the support team at Physna from the main hamburger menu on the main page. Click on the three horizontal lines icon to open the menu and select "Support" last item in the list. This will open a page explaining how to get in touch.
+- You can find the details on how to contact the support team at Physna from the main hamburger menu on the main page. Click on the three horizontal lines icon to open the menu and select "Support" last item in the list. This will open a page explaining how to get in touch.
 
-Alternatively, you can sent an e-mail to [info@physna.com](mailto:info@physna.com?subject=Physna%20Support) with subject "Support".
+- Alternatively, you can sent an e-mail to [info@physna.com](mailto:info@physna.com?subject=Physna%20Support) with subject "Support".
 
-If you have a critical issue that requires immediate attention, please contact your Physna Account Team.
+- If you have a critical issue that requires immediate attention, please contact your Physna Account Team.
 
 ## 6. Architecture <a name="architecture"><a/>    
     
