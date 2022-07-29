@@ -190,8 +190,6 @@ The default view is to show both models side by side, but you can also overlay t
 
 In many cases, it is sufficient to know the percentage of similarity. If it is 100%, you know that the two parts are exact duplicates even when they are registered with different names in your system. Comparing differences is most useful when you are trying to determine how and why the two are different.
 
-_... to be continued ..._
-
 ## 5. Help and Support <a name="help_and_support"><a/>
 
 - You can find the details on how to contact the support team at Physna from the main hamburger menu on the main page. Click on the three horizontal lines icon to open the menu and select "Support" last item in the list. This will open a page explaining how to get in touch.
