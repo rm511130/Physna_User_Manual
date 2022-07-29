@@ -261,7 +261,7 @@ In many cases, it is sufficient to know the percentage of similarity. If it is 1
    13) System and Communications Protection   
    14) System and Information Integrity
 
-    **b) _Cybersecurity Maturity Model Certification (CMMC)_:** Physna is working to attain CMMC Level 2 compliant. The DoD's Cybersecurity Maturity Model Certification (CMMC) program, which is related to NIST SP800-171, but contains 3 different levels, has additional controls, and requires showing a maturity level. Being CMMC compliant requires that companies entrusted with national security information implement cybersecurity standards at progressively advanced levels, depending on the type and sensitivity of the information. The program also sets forward the process for information flow down to subcontractors.    
+    **b) _Cybersecurity Maturity Model Certification (CMMC)_:** Physna is working to attain CMMC Level 2 compliance. The DoD's Cybersecurity Maturity Model Certification (CMMC) program, which is related to NIST SP800-171, but contains 3 different levels, has additional controls, and requires showing a maturity level. Being CMMC compliant requires that companies entrusted with national security information implement cybersecurity standards at progressively advanced levels, depending on the type and sensitivity of the information. The program also sets forward the process for information flow down to subcontractors.    
    1) CMMC level 1: Safeguard federal contract information.
    2) CMMC level 2: Serve as a transition step in cybersecurity maturity progression to protection controlled unclassified information.
    3) CMMC level 3: Protect CUI.
