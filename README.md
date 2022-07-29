@@ -1,5 +1,5 @@
 ![Physna_Logo](./images/Physna_Logo.jpg)
-# End User Guide v1.0.0
+# End User Guide v0.1
 
 ## Overview
 This guide describes the features available to an End User of the Physna Enterprise Platform, a cloud-based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise Graphics User Interface environment who needs to:
