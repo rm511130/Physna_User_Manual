@@ -288,8 +288,8 @@ In many cases, it is sufficient to know the percentage of similarity. If it is 1
    18) SA (System and services acquisition): Implementing security across the system development lifecycle, new vendor contracts, and acquisitions.
    19) SC (System and communications protection): Partitioning applications, implementing cryptographic key management, and securing passwords and other sensitive data.
    20) SI (System and information integrity): Implementing system monitoring, alerting systems, and flaw remediation processes.
-
-- ** Roadmap Items **:   
+  
+- **Roadmap Items**:   
    
     **a) _FedRAMP (Federal Risk and Authorization Management Program)_:** Physna's certification and compliance roadmap will ultimately get to FedRAMP Levels 1 and 2. In order to attain FedRAMP compliance Physna will be working through the following steps:
     1) Gap analysis to understand how the current “as-is” environment aligns to the FedRAMP security requirements.
