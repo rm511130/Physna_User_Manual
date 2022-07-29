@@ -113,6 +113,29 @@ Clicking the "Upload Files" button will open standard file selection dialog. The
 
 At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page as shown previously.
 
+### 3c. Folders
+
+Folders in Phynsa are containers that help you organize you organize your 3D models. You can still search across folders, but storing them in named folders provides logical structure.
+
+To list your folders, open the hamburger menu in the upper left corner and select "Folders".
+
+![folders-1](./images/folders-1.png)
+
+This will display the list of folders.
+
+![folders-1](./images/folders-2.png)
+
+To create a new folder, click on the "Actions" button in the upper right corner and select "Create  New Folder" from the dropdown menu.
+
+<img src="./images/folders-3.png" style="width:200px;"/>
+
+Enter the name of the new folder and click the "Create" button.
+
+<img src="./images/folders-4.png" style="width:400px;"/>
+
+To delete a folder, click on the trashcan icon next to the folder name in the folder list page.
+
+
 ## 4. Example Use Cases<a name="use-cases"><a/>
 
 In the previous chapters we learned how to upload a file and how to navigate around the Physna's web site. In this chapter we will provide some examples of the types of practical operations one could perform.
@@ -183,7 +206,7 @@ _... to be continued ..._
     
 ![architecture](./images/architecture.jpg)
     
-- Physna is only available on GCP (Google Cloud Platform). Physna's API 1st architecture means that the Cloud Service Provider hosting Physna's services is effectively shielded by a layer of Physna's Public API services. As an end user, you will not be directly exposed to the Cloud Service Provider's services and will therefore not need to manage them. 
+- Physna is only available on GCP (Google Cloud Platform). Physna's API-first architecture means that the Cloud Service Provider hosting Physna's services is effectively shielded by a layer of Physna's Public API services. As an end user, you will not be directly exposed to the Cloud Service Provider's services and will therefore not need to manage them. 
 - The documentation pertaining to the publicly available API calls can be found at  https://api.physna.com/v2/docs.
     
 ## 7. Security <a name="security"><a/>     
@@ -275,7 +298,7 @@ _... to be continued ..._
 
 ### Cookies <a name="cookies"><a/>
 
-When 1st accessing Physna, you will be asked to accept cookies per the example shown below:
+When accessing Physna for the first time, you will be asked to accept cookies per the example shown below:
     
 ![image](./images/181404974-f6a923fd-2f7f-4b2a-81bb-50c7b16499c9.png)
     
